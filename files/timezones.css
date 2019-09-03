@@ -1,0 +1,78 @@
+a:link { color: #0B4184}
+a:visited { color: #0B4184}
+a:hover  { color: #136FE0}
+.textklein {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; font-weight: normal; color: #000000; padding-top: 9px; padding-bottom: 9px}
+a.textklein:link {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textklein:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textklein:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.textkleinrot {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; font-weight: normal; color: #990000; text-align: right; padding-top: 6px; padding-bottom: 6px}
+.textkleinblau {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; font-weight: bold; color: #182650; text-align: right; padding-top: 6px; padding-bottom: 6px}
+.textrot {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 16px; font-weight: normal; color: #990000; text-align: left; padding-top: 6px; padding-bottom: 6px}
+.textblau {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 12px; font-weight: bold; color: #182650; text-align: right}
+.textmittel {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; font-weight: normal; color: #000000}
+a.textmittel:link {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textmittel:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textmittel:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.text {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: normal; font-weight: normal; color: #000000}
+a.text:link {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.text:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.text:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.textindexrot {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: bold; font-weight: normal; color: #990000; text-align: left; background-color: #CCFFCC}
+.textindexblau {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: bold; font-weight: normal; color: #182650; text-align: right; background-color: #CCFFCC}
+.textindex {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: normal; font-weight: normal; color: #000000; padding-top: 9px; padding-bottom: 9px; background-color: #CCFFCC}
+a.textindex:link {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textindex:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.textindex:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.nav {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal; font-weight: normal; color: #015970; text-align: left; text-indent: 5px}
+a.nav:link {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #1015970; text-decoration: none}
+a.nav:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #015970; text-decoration: none}
+a.nav:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #990000; text-decoration: none}
+.navneg {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; color: #99CCFF}
+a.navneg:link {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; color: #99CCFF; text-decoration: none}
+a.navneg:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; color: #99CCFF; text-decoration: none}
+a.navneg:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.impressum1 {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #828282; text-decoration: none}
+a.impressum1:link {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #828282; text-decoration: none}
+a.impressum1:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #828282; text-decoration: none}
+a.impressum1:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #136FE0; text-decoration: none}
+.head {  font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bold; color: #182650; font-style: normal; line-height: normal}
+a.head:link {  font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.head:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: normal; color: #0B4184; text-decoration: none}
+a.head:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: normal; color: #136FE0; text-decoration: underline}
+.index {  font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #990000; font-style: normal; line-height: normal; background-image: url(halbtrans.gif)}
+a.index:link {  font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: normal; color: #990000; text-decoration: none}
+a.index:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: normal; color: #990000; text-decoration: none}
+a.index:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: normal; color: #136FE0; text-decoration: underline}
+div.absolute {
+    position: absolute;
+    width: 100px;
+    height: 80%;
+}
+table {
+  border: 0;
+  border-collapse: collapse;
+  width: 100px;
+  border-spacing: 0;
+  padding: 0;
+}
+table td {
+  vertical-align: top;
+  text-align: left
+}
+body {  background-repeat: no-repeat; background-image: url(timezone.png)}
+.cities  {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: normal; color: #000000; text-align: right}
+
+.stadtre {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: normal; color: #000000; text-align: right}
+.stadtli {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: normal; color: #000000; text-align: left}
+
+.zeitNre {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #333399; text-align: right; text-indent: 7px; padding-top: 0px}
+.zeitWre {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #006600; text-align: right; text-indent: 7px; padding-top: 0px}
+.zeitSre {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #990000; text-align: right; text-indent: 7px; padding-top: 0px}
+.zeitWli {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #006600; text-align: left;  text-indent: 7px; padding-top: 0px}
+.zeitNli {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #333399; text-align: left;  text-indent: 7px; padding-top: 0px}
+.zeitSli {  font-family: Arial, Helvetica, sans-serif; font-size: 7px; line-height: 7px; font-weight: bold; color: #990000; text-align: left;  text-indent: 7px; padding-top: 0px}
+.zeitlit {  background-image: url(halbtrans.gif)}
+.zeitret {  background-image: url(halbtrans.gif)}
+.headnav {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; text-indent: 15px; color: #79763E; letter-spacing: 1px; margin-top: 3px; margin-bottom: 3px; padding-top: 3px; padding-bottom: 3px}
+.headnavneg {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #66FFCC; text-align: left; background-color: #182650; text-indent: 5px; ; vertical-align: top}
+.temp {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #FFFFFF; text-align: center; padding-top: 3px; padding-bottom: 3px}
